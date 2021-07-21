@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/about_second"
+        android:title="About the game">
+    </item>
+
+    <item
+        android:id="@+id/about_project"
+        android:title="About the project">
+    </item>
+
+    <item
+        android:id="@+id/menu_leaderboards"
+        android:title="Leaderboards">
+    </item>
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings">
+    </item>
+
+    <item
+        android:id="@+id/disconnect"
+        android:title="Disconnect">
+    </item>
+
+    <item
+        android:id="@+id/exit_menu"
+        android:title="Exit">
+    </item>
+
+</menu>

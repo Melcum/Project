@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about_first"
+        android:title="About the game">
+    </item>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="About the project" />
+
+    <item
+        android:id="@+id/settings2"
+        android:title="Settings">
+    </item>
+
+    <item
+        android:id="@+id/exit_menu2"
+        android:title="Exit">
+    </item>
+</menu>
